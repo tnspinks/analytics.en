@@ -29,7 +29,7 @@ The Web SDK does not support offline tracking.
 
 ## Offline tracking using the Adobe Analytics extension
 
-There is not a dedicated field in the Adobe Analytics extension to use this variable. Use the custom code editor, following AppMeasurement syntax.
+Check the Offline Enabled checkbox in the Adobe Analtyics extension configuration screen.
 
 ## s.trackOffline in AppMeasurement and the Analytics extension custom code editor
 
